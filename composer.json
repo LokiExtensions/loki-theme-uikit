@@ -1,17 +1,21 @@
 {
-  "name": "loki-theme/magento2-theme-uikit",
-  "version": "0.0.1",
-  "description": "UIkit CSS instance of Loki Theme",
-  "type": "magento2-theme",
-  "require": {
-    "magento/framework": "^103.0"
-  },
-  "license": [
-    "OSL-3.0"
-  ],
-  "autoload": {
-    "files": [
-      "registration.php"
+    "name": "loki-theme\/magento2-theme-uikit",
+    "version": "0.0.1",
+    "description": "UIkit CSS instance of Loki Theme",
+    "type": "magento2-theme",
+    "require": {
+        "magento\/framework": "^103.0"
+    },
+    "license": [
+        "OSL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ]
+    },
+    "keywords": [
+        "loki-theme",
+        "loki-experimental"
     ]
-  }
 }
